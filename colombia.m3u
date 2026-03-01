@@ -314,12 +314,7 @@ http://148.222.225.136:8004/play/a0ik/index.m3u8
 http://148.222.225.136:8004/play/a0hz/index.m3u8
 #EXTINF:-1, Fx
 http://148.222.225.136:8004/play/a0i6/index.m3u8
-#EXTINF:-1,HBO 2
-http://148.222.225.136:8004/play/a0ij/index.m3u8
-#EXTINF:-1, History 
-http://148.222.225.136:8004/play/a0ig/index.m3u8
-#EXTINF:-1, History 2
-http://148.222.225.136:8004/play/a0ih/index.m3u8
+
 #EXTINF:-1,Nickjr
 http://148.222.225.136:8004/play/a0i7/index.m3u8
 
@@ -377,10 +372,7 @@ http://148.222.225.136:8004/play/a05p/index.m3u8
 http://148.222.225.136:8004/play/a0im/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://148.222.225.136:8004/play/a08e/index.m3u8
-#EXTINF:-1,Disney HD
-http://148.222.225.136:8004/play/a0dr/index.m3u8
-#EXTINF:-1,Disney Jr
-http://148.222.225.136:8004/play/a0is/index.m3u8
+
 #EXTINF:-1,E Entertainment
 http://148.222.225.136:8004/play/a0fu/index.m3u8
 #EXTINF:-1,ET Canal El Tiempo
@@ -393,26 +385,9 @@ http://148.222.225.136:8004/play/a0jx/index.m3u8
 http://148.222.225.136:8004/play/a0e0/index.m3u8
 #EXTINF:-1,GOLF CHANNEL
 http://148.222.225.136:8004/play/a0jw/index.m3u8
-#EXTINF:-1,Golden
-http://148.222.225.136:8004/play/a05b/index.m3u8
-#EXTINF:-1,Golden Edge
-http://148.222.225.136:8004/play/a03u/index.m3u8
-#EXTINF:-1,HBO
-http://148.222.225.136:8004/play/a0jp/index.m3u8
-#EXTINF:-1,HBO 2
-http://148.222.225.136:8004/play/a0io/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://148.222.225.136:8004/play/a0jz/index.m3u8
-#EXTINF:-1,HBO Family
-http://148.222.225.136:8004/play/a0ir/index.m3u8
-#EXTINF:-1,HBO HD
-http://148.222.225.136:8004/play/a0k0/index.m3u8
-#EXTINF:-1,HBO Plus
-http://148.222.225.136:8004/play/a0ip/index.m3u8
-#EXTINF:-1,HBO Xtreme SD
-http://148.222.225.136:8004/play/a0iq/index.m3u8
-#EXTINF:-1,History Channel HD
-http://148.222.225.136:8004/play/a08h/index.m3u8
+
+
+
 #EXTINF:-1,Las Estrellas HD
 http://148.222.225.136:8004/play/a03w/index.m3u8
 #EXTINF:-1,MTV 00s
@@ -518,8 +493,7 @@ http://m-iptv.net:6204/live/miran/123/10536.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 (Señal 1)
 http://179.1.68.245:7600/play/a058/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN (Señal 1)
-http://181.119.66.250:2222/play/a03f/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814",RCN HD 2
 http://181.78.7.90:12500/play/a06l/index.m3u8
 
@@ -593,12 +567,7 @@ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/p
 #EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 
-#EXTINF:-1 group-title="Religiosos" tvg-id="TeleAmiga.co@SD",Tele Amiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-id="TeleVid.co@SD",Tele Vid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
+
 
 
 
