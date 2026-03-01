@@ -5,16 +5,13 @@
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Se%C3%B1al_Colombia_2013.png/revision/latest/scale-to-width-down/78?cb=20210501162756&path-prefix=es", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD 
-http://181.78.7.90:12500/play/a06b/index.m3u8
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD
 http://38.51.234.11:8888/play/a0gg
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2
 http://179.1.68.245:7600/play/a058/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 TDT
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/revision/latest?cb=20210218135235&path-prefix=es",Trece
 http://190.242.59.52:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117",RCN
@@ -402,10 +399,6 @@ http://148.222.225.136:8004/play/a009/index.m3u8
 http://148.222.225.136:8004/play/a093/index.m3u8
 #EXTINF:-1,Canal del Congreso
 http://148.222.225.136:8004/play/a09u/index.m3u8
-#EXTINF:-1,Caracol
-http://148.222.225.136:8004/play/a07t/index.m3u8
-#EXTINF:-1,Caracol HD
-http://148.222.225.136:8004/play/a07p/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://148.222.225.136:8004/play/a0f2/index.m3u8
 #EXTINF:-1,Cinecanal HD
@@ -597,16 +590,13 @@ http://m-iptv.net:6204/live/miran/123/10537.m3u8
 http://m-iptv.net:6204/live/miran/123/10536.m3u8
 
 ### ENTRETENIMIENTO Y NACIONALES ###
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD (Señal 1)
-http://181.78.7.90:12500/play/a06b/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD (Señal 2)
 http://38.51.234.11:8888/play/a0gg
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol (Señal Alterna)
-http://190.66.7.162:2112/play/a029/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 (Señal 1)
 http://179.1.68.245:7600/play/a058/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",CARACOL HD2 (Señal 2)
-http://190.102.123.28:8097/play/a0d2/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN (Señal 1)
 http://181.119.66.250:2222/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rcn_2020.jpg/revision/latest?cb=20210502002739&path-prefix=es",RCN HD (Señal 2)
@@ -704,5 +694,6 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 #EXTINF:-1 group-title="Religiosos" tvg-id="TeleVid.co@SD",Tele Vid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
+
 
 
