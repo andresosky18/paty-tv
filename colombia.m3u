@@ -13,17 +13,14 @@ http://179.1.68.245:7600/play/a058/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/revision/latest?cb=20210218135235&path-prefix=es",Trece
 http://190.242.59.52:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117",RCN
-http://45.171.180.66:8888/play/a00l/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117",RCN HD
-http://38.191.80.20:8023/play/a018
+
+
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814",RCN HD2 TDT
 http://181.78.7.90:12500/play/a06l/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814",RCN HD2 TDT
-http://45.171.180.66:8888/play/a00m/index.m3u8
+
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/46?cb=20241021203534&path-prefix=es",Azteca 7 
 http://45.5.119.43:4000/play/a026/index.m3u8
@@ -325,8 +322,7 @@ http://148.222.225.136:8004/play/a0ig/index.m3u8
 http://148.222.225.136:8004/play/a0ih/index.m3u8
 #EXTINF:-1,Nickjr
 http://148.222.225.136:8004/play/a0i7/index.m3u8
-#EXTINF:-1, RCN
-http://148.222.225.136:8004/play/a0i0/index.m3u8
+
 #EXTINF:-1, Sony
 http://148.222.225.136:8004/play/a0ii/index.m3u8
 #EXTINF:-1, AXN 
@@ -429,16 +425,6 @@ http://148.222.225.136:8004/play/a0dz/index.m3u8
 http://148.222.225.136:8004/play/a0jb/index.m3u8
 #EXTINF:-1,Pasiones
 http://148.222.225.136:8004/play/a09t/index.m3u8
-#EXTINF:-1,RCN
-http://148.222.225.136:8004/play/a07s/index.m3u8
-#EXTINF:-1,RCN HD
-http://http://186.121.140.122:8000/play/a0sd
-#EXTINF:-1,RCN HD
-http://186.121.140.122:8000/play/a10b
-#EXTINF:-1,RCN Novelas
-http://148.222.225.136:8004/play/a0fz/index.m3u8
-#EXTINF:-1,RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1,RUMBATV
 http://148.222.225.136:8004/play/a0ju/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
@@ -556,30 +542,26 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="Teleislas.co@SD",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="Telepacifico.co@SD",Telepacifico (1080p)
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
 #EXTINF:-1 group-title="Regionales" tvg-id="CanalVisionDorada.co@SD",Bum Televisión
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="Canal8TVPlus.co@SD",Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="Canal10SOLTV.co@SD",Canal 10 SOL TV
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="Canal55TelemoriscoTV.co@SD",Canal 55 Telemorisco TV
-http://canal.mediaserver.com.co/live/telemorisco.m3u8
+
 #EXTINF:-1 group-title="Regionales" tvg-id="CanalDos.co@SD",Canal Dos Yopal
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="CanalMasTelevision.co@SD",Canal Más Televisión
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="CanalNets.co@SD",Canal Nets
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="CNCHDOnline.co@SD",CNC HD Online
-https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
+
 #EXTINF:-1 group-title="Regionales" tvg-id="CNCSantanderdeQuilichao.co@SD",CNC Santander de Quilichao
 https://video.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="Cosmovision.co@SD",Cosmovision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="TeleSanJacinto.co@SD",Tele San Jacinto
-https://video.ejeserver.com/live/telesanjacinto.m3u8
+
 #EXTINF:-1 group-title="Regionales" tvg-id="TVSanJorge.co@SD",TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="ViveTV.co@SD",Vive TV Colombia
@@ -593,8 +575,7 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="MasMusicaFM.co@SD",MasMusica FM
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="SalsaGordaTelevision.co@SD",Salsa Gorda Television
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades" tvg-id="NSTV.co@SD",NSTV
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="SuramTV.co@SD",Suram TV
@@ -611,14 +592,14 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-id="CMBTelevision.co@SD",CMB Television
-https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8
+
 #EXTINF:-1 group-title="Religiosos" tvg-id="TeleAmiga.co@SD",Tele Amiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="TeleVid.co@SD",Tele Vid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
+
 
 
 
