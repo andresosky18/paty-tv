@@ -513,8 +513,6 @@ http://148.222.225.136:8004/play/a0jv/index.m3u8
 
 
 ### DEPORTES ###
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241",WIN SPORT HD
-http://190.61.55.34:2401/play/win/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS FHD
 http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS 1 HD (Opción 1)
@@ -684,6 +682,7 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 #EXTINF:-1 group-title="Religiosos" tvg-id="TeleVid.co@SD",Tele Vid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
+
 
 
 
