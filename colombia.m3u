@@ -10,126 +10,75 @@ http://181.78.8.199:8000/play/a0fo/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1,BABY TV
 http://181.78.8.199:8000/play/a08d/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BANDA MAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BIT ME
 http://181.78.8.199:8000/play/a0ga/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL UNO
 http://181.78.8.199:8000/play/a0cz/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL 12
 http://181.78.8.199:8000/play/a0e4/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#CANAL 13
 http://181.78.8.199:8000/play/a0d4/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dj/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL CAPITAL
 http://181.78.8.199:8000/play/a0d3/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL DEL CONGRESO
 http://181.78.8.199:8000/play/a0di/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL LAS ESTRELLAS
 http://181.78.8.199:8000/play/a0as/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL TRO
 http://181.78.8.199:8000/play/a0dh/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a091/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cy/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cx/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d0/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CARACOL
 http://181.78.8.199:8000/play/a0b0/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CARACOL 2 
 http://181.78.8.199:8000/play/a0hw/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08s/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0aw/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Cartoon Network
 http://181.78.8.199:8000/play/a095/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CARTOONITO
 http://181.78.8.199:8000/play/a09f/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CINE FAMILIAR
 http://181.78.8.199:8000/play/a09p/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CINE HISPANO
 http://181.78.8.199:8000/play/a09n/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL INFANTIL
 http://181.78.8.199:8000/play/a09o/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CINE MEXICANO
 http://181.78.8.199:8000/play/a0e1/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CINE PREMIUM
 http://181.78.8.199:8000/play/a09q/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CITY TV
 http://181.78.8.199:8000/play/a087/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0eg/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ek/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dt/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CNN EN ESPAÑOL
 http://181.78.8.199:8000/play/a08a/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TV COLOMBIA
 http://181.78.8.199:8000/play/a0fn/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DISTRITO COMEDIA
 http://181.78.8.199:8000/play/a0e3/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CRISTO TV
 http://181.78.8.199:8000/play/a0dr/index.m3u8
-
-
-
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CINE CANAL
 http://181.78.8.199:8000/play/a094/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a07i/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,D PELICULA
 http://181.78.8.199:8000/play/a0au/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,D PELICULA 2
 http://181.78.8.199:8000/play/a0e0/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DHE
 http://181.78.8.199:8000/play/a086/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c4/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c5/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CRISTO VISION
 http://181.78.8.199:8000/play/a084/index.m3u8
-
-
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09a/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a070/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c2/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c3/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hb/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Discovery Channel
 http://181.78.8.199:8000/play/a09s/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Discovery ID
 http://181.78.8.199:8000/play/a0ht/index.m3u8
-
-
-
-
-
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Disney Channel
 http://181.78.8.199:8000/play/a0dq/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Disney Channel jr
 http://181.78.8.199:8000/play/a0ac/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0b1/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Discovery KIDS
 http://181.78.8.199:8000/play/a0b2/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Discovery H&H
 http://181.78.8.199:8000/play/a08z/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0b3/index.m3u8
+
 
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09b/index.m3u8
@@ -902,6 +851,7 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
+
 
 
 
