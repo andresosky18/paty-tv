@@ -88,6 +88,14 @@ http://181.78.8.199:8000/play/a07g/index.m3u8
 http://181.78.8.199:8000/play/a08o/index.m3u8
 #EXTINF:-1,CANAL E
 http://181.78.8.199:8000/play/a0do/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://189.50.210.3:8008/play/a07d/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://189.50.210.3:8008/play/a033/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://189.50.210.3:8008/play/a04b/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1,ESPN
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1,ESPN 2
@@ -95,7 +103,7 @@ http://181.78.8.199:8000/play/a0bu/index.m3u8
 #EXTINF:-1,ESPN 3
 http://181.78.8.199:8000/play/a0bx/index.m3u8
 #EXTINF:-1,ESPN 4
-http://181.78.8.199:8000/play/a0ee/index.m3u8
+http://189.50.210.3:8008/play/a04a/index.m3u8
 #EXTINF:-1,ESPN 5
 http://181.78.8.199:8000/play/a0cm/index.m3u8
 #EXTINF:-1,ESPN 6
@@ -344,8 +352,6 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.7.90:12500/play/a00q/index.m3u8
 #EXTINF:-1,Enlace
 http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
@@ -396,8 +402,6 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.7.90:12500/play/a00q/index.m3u8
 #EXTINF:-1,Enlace
 http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
@@ -480,30 +484,8 @@ http://189.50.210.3:8008/play/a02v/index.m3u8
 http://189.50.210.3:8008/play/a02t/index.m3u8
 #EXTINF:-1,Disney Junior
 http://189.50.210.3:8008/play/a05q/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://189.50.210.3:8008/play/a04e/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://189.50.210.3:8008/play/a07d/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://189.50.210.3:8008/play/a033/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://189.50.210.3:8008/play/a04b/index.m3u8
-#EXTINF:-1,ESPN 4HD
-http://189.50.210.3:8008/play/a04a/index.m3u8
-#EXTINF:-1,ESPN 5HD
-http://189.50.210.3:8008/play/a030/index.m3u8
-#EXTINF:-1,ESPN 6
-http://189.50.210.3:8008/play/a03z/index.m3u8
-#EXTINF:-1,ESPN 6HD
-http://189.50.210.3:8008/play/a04c/index.m3u8
-#EXTINF:-1,ESPN HD
-http://189.50.210.3:8008/play/a04h/index.m3u8
-#EXTINF:-1,ESPN HD
-http://189.50.210.3:8008/play/a07m/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://189.50.210.3:8008/play/a07q/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://189.50.210.3:8008/play/a04l/index.m3u8
+
+
 #EXTINF:-1,ET Canal El Tiempo
 http://189.50.210.3:8008/play/a06r/index.m3u8
 #EXTINF:-1,FX HD
@@ -614,8 +596,7 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.7.90:12500/play/a00q/index.m3u8
+
 #EXTINF:-1,Enlace
 http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
@@ -660,8 +641,7 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.7.90:12500/play/a00q/index.m3u8
+
 #EXTINF:-1,Enlace
 http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
@@ -722,35 +702,6 @@ http://38.199.4.105:9999/play/1119/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/300?cb=20250729202917",SKY Sport
 http://177.10.184.60:8002/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN SUR
-http://179.63.6.15:8002/play/a02r
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN MX
-http://181.119.111.25:4000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN CHILE HD
-http://189.50.210.3:8008/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ESPN_Premium_%282022%29.svg/revision/latest/scale-to-width-down/78?cb=20220505041004",ESPN PREMIUM
-http://190.171.83.2:4000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 SD
-http://45.173.72.26:2072/play/a05d
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 HD
-http://181.78.14.26:4000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 latin
-http://181.78.14.26:4000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 HD MX
-http://181.119.111.25:4000/play/a0dk/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3 SD
-http://45.173.72.26:2072/play/a05g
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3 MX
-http://181.119.111.25:4000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/78?cb=20211129170304&path-prefix=es",ESPN 4 HD
-http://190.171.83.2:4000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/78?cb=20211129170304&path-prefix=es",ESPN 4 HD
-http://190.171.83.2:4000/play/a0q0/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/78?cb=20211129170304&path-prefix=es",ESPN 4 MX HD
-http://181.119.111.25:4000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/78?cb=20211120193957",ESPN 5 MX
-http://181.119.111.25:4000/play/a0f0/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/78?cb=20211120192909",ESPN 6 MX
 http://181.119.111.25:4000/play/a0dm/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest/scale-to-width-down/68?cb=20230207140224&path-prefix=es",Fox Sports 3 HD
 http://177.53.153.207:8000/play/a001/index.m3u8
@@ -779,27 +730,6 @@ http://191.97.49.82:8001/play/a00r/index.m3u8
 http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS 1 HD (Opción 1)
 http://38.187.3.110:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN CHILE HD
-http://38.51.234.11:8888/play/a0db
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN Premium HD
-http://38.51.234.11:8888/play/a0ft
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2
-http://45.173.72.26:2072/play/a05d
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3
-http://45.173.72.26:2072/play/a05g
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3 HD
-http://38.51.234.11:8888/play/a0g9
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4 (Opción 1)
-http://45.173.72.26:2072/play/a0bx
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4 (Opción 2)
-http://45.173.72.26:2072/play/a05i
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4 HD
-http://38.51.234.11:8888/play/a0fp
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6 HD (Opción 1)
-http://179.1.68.245:7600/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6 HD (Opción 2)
-http://38.51.234.11:8888/play/a0g8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",ESPN 7 HD
 http://179.1.68.245:7600/play/a084/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/330px-Logotipo_de_TV_Azteca.svg.png",Azteca 7 (Opción 1)
 http://45.5.119.43:4000/play/a026/index.m3u8
@@ -856,6 +786,7 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
+
 
 
 
