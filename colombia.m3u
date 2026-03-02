@@ -18,7 +18,7 @@ http://181.78.8.199:8000/play/a0ga/index.m3u8
 http://181.78.8.199:8000/play/a0cz/index.m3u8
 #EXTINF:-1,CANAL 12
 http://181.78.8.199:8000/play/a0e4/index.m3u8
-#EXTINF:-1,#CANAL 13
+#EXTINF:-1,CANAL 13
 http://181.78.8.199:8000/play/a0d4/index.m3u8
 #EXTINF:-1,CANAL CAPITAL
 http://181.78.8.199:8000/play/a0d3/index.m3u8
@@ -132,174 +132,112 @@ http://181.78.8.199:8000/play/a07j/index.m3u8
 http://181.78.8.199:8000/play/a0db/index.m3u8
 #EXTINF:-1,Adult Swim
 http://181.78.8.199:8000/play/a0ah/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cs/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,KANAL D
 http://181.78.8.199:8000/play/a083/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c6/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dp/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,LIFETIME
 http://181.78.8.199:8000/play/a0ai/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#MERIDIANO
 http://181.78.8.199:8000/play/a0fr/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MTV
 http://181.78.8.199:8000/play/a0ad/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1, MI MUSICA HITS
 http://181.78.8.199:8000/play/a09u/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MI MUSICA POPULAR
 http://181.78.8.199:8000/play/a09v/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MI MUSICA REGGAETON
 http://181.78.8.199:8000/play/a09r/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MI MUSICA SALSA
 http://181.78.8.199:8000/play/a09z/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,NICK JR
 http://181.78.8.199:8000/play/a0a0/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,NUESTRA TELE
 http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,National Geographic
 http://181.78.8.199:8000/play/a093/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c7/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,NICKELODEON
 http://181.78.8.199:8000/play/a07l/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0aj/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,SONY MOVIES
 http://181.78.8.199:8000/play/a0af/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,PANICO HD
 http://181.78.8.199:8000/play/a0bt/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,FMH MOVIES
 http://181.78.8.199:8000/play/a06u/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,RCN 2
 http://181.78.8.199:8000/play/a0hx/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,RCN HD
 http://181.78.8.199:8000/play/a0az/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09l/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1, RCN NOVELAS
 http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1, RUMBA TV
 http://181.78.8.199:8000/play/a0ec/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fy/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Science Channel
 http://181.78.8.199:8000/play/a0hv/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d1/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dc/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,SONY CHANNEL 2
 http://181.78.8.199:8000/play/a0ao/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,SONY CHANNEL 3
 http://181.78.8.199:8000/play/a0e6/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ap/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e7/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,SPACE
 http://181.78.8.199:8000/play/a096/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,USA LATAM 
 http://181.78.8.199:8000/play/a0cl/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09x/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,UNIVERSAL TV
 http://181.78.8.199:8000/play/a0cf/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TCM
 http://181.78.8.199:8000/play/a0du/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE CARIBE
 http://181.78.8.199:8000/play/a0df/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE PACIFICO
 http://181.78.8.199:8000/play/a0dg/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE AMIGA 
 http://181.78.8.199:8000/play/a0dv/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08b/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE ANTIOQUIA
 http://181.78.8.199:8000/play/a0d5/index.m3u8
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dd/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0de/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d8/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d6/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE HIT MUSIC 
 http://181.78.8.199:8000/play/a0g7/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TIN TV
 http://181.78.8.199:8000/play/a07t/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fz/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TLN
 http://181.78.8.199:8000/play/a0ar/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TLN NOVELAS
 http://181.78.8.199:8000/play/a0bs/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d7/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1, VIVE TV
 http://181.78.8.199:8000/play/a0fm/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELEVEN
 http://181.78.8.199:8000/play/a09j/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ak/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,UNIVISION
 http://181.78.8.199:8000/play/a0av/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0at/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ch/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TLC
 http://181.78.8.199:8000/play/a0a3/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE TUYA
 http://181.78.8.199:8000/play/a0fs/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TNT NOVELAS
 http://181.78.8.199:8000/play/a0bq/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09h/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TNT SERIES
 http://181.78.8.199:8000/play/a098/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TNT
 http://181.78.8.199:8000/play/a097/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Tooncast
 http://181.78.8.199:8000/play/a09g/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d9/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Discovery Turbo
 http://181.78.8.199:8000/play/a0ci/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0a5/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TV AGRO
 http://181.78.8.199:8000/play/a0fj/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fp/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e5/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,tv venezuela
 http://181.78.8.199:8000/play/a0ft/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09t/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,STUDIO UNIVERSAL
 http://181.78.8.199:8000/play/a09w/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e2/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0er/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ce/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0a4/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cp/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hz/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1, WIN FUTBOL +
 http://181.78.8.199:8000/play/a0cc/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,WIN FUTBOL + HD
 http://181.78.8.199:8000/play/a06v/index.m3u8
+
+
+
+
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0dw/index.m3u8
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
@@ -345,8 +283,6 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,Enlace
-http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
@@ -361,8 +297,6 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,RCN HD 2
-http://181.78.7.90:12500/play/a06l/index.m3u8
 #EXTINF:-1,Señal Colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1,TNT HD
@@ -395,8 +329,6 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,Enlace
-http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
@@ -413,8 +345,6 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,RCN HD 2
-http://181.78.7.90:12500/play/a06l/index.m3u8
 #EXTINF:-1,Señal Colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1,TNT HD
@@ -590,8 +520,6 @@ http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
 
-#EXTINF:-1,Enlace
-http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
@@ -606,8 +534,6 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,RCN HD 2
-http://181.78.7.90:12500/play/a06l/index.m3u8
 #EXTINF:-1,Señal Colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1,TNT HD
@@ -635,8 +561,6 @@ http://181.78.7.90:12500/play/a003/index.m3u8
 #EXTINF:-1,Cristovision
 http://181.78.7.90:12500/play/a0aa/index.m3u8
 
-#EXTINF:-1,Enlace
-http://181.78.7.90:12500/play/a08y/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
@@ -653,8 +577,6 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,RCN HD 2
-http://181.78.7.90:12500/play/a06l/index.m3u8
 #EXTINF:-1,Señal Colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1,TNT HD
@@ -677,8 +599,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 http://179.1.68.245:7600/play/a058/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/revision/latest?cb=20210218135235&path-prefix=es",Trece
 http://190.242.59.52:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814",RCN HD2 TDT
-http://181.78.7.90:12500/play/a06l/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/46?cb=20241021203534&path-prefix=es",Azteca 7 
 http://45.5.119.43:4000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT +
@@ -729,9 +649,6 @@ http://45.5.119.43:4000/play/a026/index.m3u8
 ### ENTRETENIMIENTO Y NACIONALES ###
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 (Señal 1)
 http://179.1.68.245:7600/play/a058/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814",RCN HD 2
-http://181.78.7.90:12500/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest?cb=20210307131301&path-prefix=es",RCN Novelas
 http://201.230.137.204:8000/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="Canal1.co@SD",Canal 1 (Opción 2 - 1080p)
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -779,17 +696,3 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
