@@ -118,26 +118,19 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 http://181.78.8.199:8000/play/a0cj/index.m3u8
 #EXTINF:-1,History Channel
 http://181.78.8.199:8000/play/a0an/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,History Channel 2
 http://181.78.8.199:8000/play/a0ag/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,HOGAR TV
 http://181.78.8.199:8000/play/a0g0/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,H TV
 http://181.78.8.199:8000/play/a081/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,History Channel 2 HD
 http://181.78.8.199:8000/play/a0cq/index.m3u8
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a07j/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CANAL INSTITUCIONAL
 http://181.78.8.199:8000/play/a0db/index.m3u8
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Adult Swim
 http://181.78.8.199:8000/play/a0ah/index.m3u8
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cs/index.m3u8
@@ -786,6 +779,7 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
+
 
 
 
