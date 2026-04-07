@@ -1,11 +1,10 @@
 #EXTM3U
-
 #EXTINF:-1,A&E
-http://181.78.8.199:8000/play/a0al/index.m3u8
+http://190.60.49.242:4000/play/a0je/index.m3u8
 #EXTINF:-1,ANIMAL PLANET 
 http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:-1,Enlace
-http://181.78.7.90:12500/play/a08y/index.m3u8
+http://190.60.49.242:4000/play/a0j6/index.m3u8
 #EXTINF:-1,Tele Sur
 http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:-1,AXN
@@ -71,15 +70,33 @@ http://181.78.8.199:8000/play/a084/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://181.78.8.199:8000/play/a09s/index.m3u8
 #EXTINF:-1,Discovery ID
-http://181.78.8.199:8000/play/a0ht/index.m3u8
+http://190.60.49.242:4000/play/a0de/index.m3u8
 #EXTINF:-1,Disney Channel
-http://181.78.8.199:8000/play/a0dq/index.m3u8
-#EXTINF:-1,Disney Channel jr
-http://181.78.8.199:8000/play/a0ac/index.m3u8
-#EXTINF:-1,Discovery KIDS
-http://181.78.8.199:8000/play/a0b2/index.m3u8
-#EXTINF:-1,Discovery H&H
-http://181.78.8.199:8000/play/a08z/index.m3u8
+http://190.60.49.242:4000/play/a0ku/index.m3u8
+#EXTINF:0,Hola TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ob/index.m3u8
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0o7/index.m3u8
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0o9/index.m3u8
+#EXTINF:0,Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0li/index.m3u8
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lk/index.m3u8
+#EXTINF:0,Gamavisiðn
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ig/index.m3u8
+#EXTINF:0,Global
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0m0/index.m3u8
+#EXTINF:0,Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ld/index.m3u8
 #EXTINF:-1,EL MUNDO DEL CAMPO
 http://181.78.8.199:8000/play/a09b/index.m3u8
 #EXTINF:-1,win sports
@@ -235,9 +252,10 @@ http://181.78.8.199:8000/play/a0c9/index.m3u8
 #EXTINF:-1,Tele mundo
 http://181.78.8.199:8000/play/a0cg/index.m3u8
 #EXTINF:-1,ABN
-http://181.78.8.199:8000/play/a0hh/index.m3u8
-
-
+http://190.60.49.242:4000/play/a01f/index.m3u8
+#EXTINF:0, FMH FAMILY
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0oi/index.m3u8
 #EXTINF:-1,CANAL INFANTIL
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
 #EXTINF:-1,CINE HISPANO
@@ -252,8 +270,6 @@ http://181.78.7.90:12500/play/a003/index.m3u8
 http://181.78.7.90:12500/play/a0aa/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://181.78.7.90:12500/play/a07d/index.m3u8
 #EXTINF:-1,La Kalle
 http://181.78.7.90:12500/play/a06g/index.m3u8
 #EXTINF:-1,MUSICA ROMANTICA
@@ -264,10 +280,8 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
-
 #EXTINF:-1,Telecafe
 http://181.78.7.90:12500/play/a00c/index.m3u8
 #EXTINF:-1,Telecaribe
@@ -276,9 +290,6 @@ http://181.78.7.90:12500/play/a00d/index.m3u8
 http://181.78.7.90:12500/play/a01o/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://181.78.7.90:12500/play/a01f/index.m3u8
-
-
-
 #EXTINF:-1,CANAL INFANTIL
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
 #EXTINF:-1,CINE HISPANO
@@ -289,11 +300,8 @@ http://181.78.7.90:12500/play/a0cn/index.m3u8
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1,Canal Congreso
 http://181.78.7.90:12500/play/a003/index.m3u8
-
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://181.78.7.90:12500/play/a07d/index.m3u8
 #EXTINF:-1,LOVENATURENUEVO
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:-1,La Kalle
@@ -306,12 +314,13 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-
+#EXTINF:0,Tele Nostalgia
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a00i/index.m3u8
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
 #EXTINF:-1,Teleantioquia
 http://190.60.49.242:4000/play/a008/index.m3u8
-
 #EXTINF:-1,Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1,Telesur
@@ -320,9 +329,7 @@ http://181.78.7.90:12500/play/a01o/index.m3u8
 http://181.78.7.90:12500/play/a01f/index.m3u8
 #EXTINF:0,Teleamazonas
 #EXTVLCOPT:network-caching=1000
-http://190.60.49.242:4000/play/a0fu/index.m3u8
-
-
+http://190.60.49.242:4000/play/a0ie/index.m3u8
 #EXTINF:-1,America TV HD
 http://189.50.210.3:8008/play/a04k/index.m3u8
 #EXTINF:-1,BBC NEWS
@@ -404,8 +411,6 @@ http://189.50.210.3:8008/play/a04m/index.m3u8
 #EXTINF:-1,Lifetime
 http://189.50.210.3:8008/play/a05w/index.m3u8
 #EXTINF:-1,MEGA HD
-http://189.50.210.3:8008/play/a02r/index.m3u8
-#EXTINF:-1,MEGA HD
 http://189.50.210.3:8008/play/a07g/index.m3u8
 #EXTINF:-1,Movistar Informa
 http://189.50.210.3:8008/play/a061/index.m3u8
@@ -461,8 +466,45 @@ http://189.50.210.3:8008/play/a06y/index.m3u8
 http://189.50.210.3:8008/play/a05m/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1,Conemtel Television
-http://38.51.232.68:8000/play/a0aq/index.m3u8?token=conemteltv
+#EXTINF:0,TC Televisiðn
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ih/index.m3u8
+#EXTINF:0,CGTN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lc/index.m3u8
+#EXTINF:0,SOPHIA
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0gg/index.m3u8
+#EXTINF:0,SONY CHANNEL 1
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0n9/index.m3u8
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0kq/index.m3u8
+#EXTINF:0,RTS
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ij/index.m3u8
+#EXTINF:0,RTU
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lq/index.m3u8
+#EXTINF:0,REWIND
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0mc/index.m3u8
+#EXTINF:0,RPP
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lz/index.m3u8
+#EXTINF:0,RAIZAL TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a00x/index.m3u8
+#EXTINF:0,Plim Plim TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0po/index.m3u8
+#EXTINF:0,Panamericana
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lx/index.m3u8
+#EXTINF:0,OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lr/index.m3u8
 #EXTINF:-1,CANAL INFANTIL
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
 #EXTINF:-1,CINE HISPANO
@@ -473,11 +515,8 @@ http://181.78.7.90:12500/play/a0cn/index.m3u8
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1,Canal Congreso
 http://181.78.7.90:12500/play/a003/index.m3u8
-
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://181.78.7.90:12500/play/a07d/index.m3u8
 #EXTINF:-1,La Kalle
 http://181.78.7.90:12500/play/a06g/index.m3u8
 #EXTINF:-1,MUSICA ROMANTICA
@@ -488,11 +527,8 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1,MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
-
-
 #EXTINF:-1,Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1,Telesur
@@ -509,11 +545,8 @@ http://181.78.7.90:12500/play/a0cn/index.m3u8
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1,Canal Congreso
 http://181.78.7.90:12500/play/a003/index.m3u8
-
 #EXTINF:-1,Fox Sports 3 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://181.78.7.90:12500/play/a07d/index.m3u8
 #EXTINF:-1,LOVENATURENUEVO
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:-1,La Kalle
@@ -533,16 +566,59 @@ http://181.78.7.90:12500/play/a06e/index.m3u8
 http://190.60.49.242:4000/play/a0j4/index.m3u8
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
-
-
 #EXTINF:-1,Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1,Telesur
 http://181.78.7.90:12500/play/a01o/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://181.78.7.90:12500/play/a01f/index.m3u8
-#EXTM3U x-tvg-url="https://www.gatotv.com/guia_tv/completa"
+#EXTINF:0,EUREKA CAPITAL
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0fz/index.m3u8
+#EXTINF:0,Eurochannel
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0m1/index.m3u8
+#EXTINF:0,Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ln/index.m3u8
+#EXTINF:0,Televicentro
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ii/index.m3u8
+#EXTINF:0,TeleVID
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0qf/index.m3u8
+#EXTINF:0,TelefØ
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0mp/index.m3u8
+#EXTINF:0,TELEISLAS
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a00w/index.m3u8
+#EXTINF:0,TELEMEDELLIN
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a01l/index.m3u8
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0j0/index.m3u8
+#EXTINF:0,E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0iz/index.m3u8
+#EXTINF:0,Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0if/index.m3u8
+#EXTINF:0,Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0id/index.m3u8
+#EXTINF:0,El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0jg/index.m3u8
 
+
+
+
+
+
+
+#EXTM3U x-tvg-url="https://www.gatotv.com/guia_tv/completa"
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2
 http://179.1.68.245:7600/play/a058/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/revision/latest?cb=20210218135235&path-prefix=es",Trece
@@ -568,7 +644,6 @@ http://181.119.111.25:4000/play/a0dm/index.m3u8
 http://177.53.153.207:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/78?cb=20251113064305",Disney Channel
 http://45.173.72.26:2072/play/a04v
-
 #EXTINF:-1 group-title="Msica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomr-wFdieaD0RBCoMdUEQEmMkQ8h7w9DinA&s", MUSICA ROMANTICA
 http://181.78.7.90:12500/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="Msica" tvg-logo="https://static.wikia.nocookie.net/rarter/images/9/95/Lalalalalalalalalalla.png/revision/latest?cb=20240430152412", MUSICA SALSA
@@ -601,7 +676,6 @@ http://201.230.137.204:8000/play/a0ff/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 ### REGIONALES Y VARIEDADES ###
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Regionales" tvg-id="CanalVisionDorada.co@SD",Bum Televisión
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 group-title="Regionales" tvg-id="CanalDos.co@SD",Canal Dos Yopal
