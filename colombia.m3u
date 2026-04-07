@@ -635,8 +635,24 @@ http://190.60.49.242:4000/play/a0e7/index.m3u8
 #EXTINF:0,CNN International
 #EXTVLCOPT:network-caching=1000
 http://190.60.49.242:4000/play/a0ik/index.m3u8
-
-
+#EXTINF:-1 group-title="-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTheNevCfd72tIv-ZlPBwp5rcybVbcBXZL8Hw&s",TELEVISION TRAPOTO
+http://191.97.49.82:8001/play/a00n/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0jt/index.m3u8
+#EXTINF:0,Nick Music52
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0lb/index.m3u8
+#EXTINF:0,TNT Sports Premium SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0jo/index.m3u8
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0j8/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.co" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TNT_Sports_%282023%29.svg/revision/latest/scale-to-width-down/78?cb=20230407001905" group-title="PELICULAS Y SERIES",TNT Sports
+http://38.250.229.23:8000/play/a0r4
+#EXTINF:-1 tvg-id="RAI.co" tvg-name="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/330px-Logo_of_RAI_%282016%29.svg.png" group-title="PELICULAS Y SERIES",RAI
+http://38.250.229.23:8000/play/a0pt
 
 
 
