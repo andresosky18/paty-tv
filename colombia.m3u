@@ -267,8 +267,7 @@ http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
 
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.7.90:12500/play/a0b2/index.m3u8
+
 #EXTINF:-1,Telecafe
 http://181.78.7.90:12500/play/a00c/index.m3u8
 #EXTINF:-1,Telecaribe
@@ -311,16 +310,17 @@ http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
 #EXTINF:-1,Teleantioquia
-http://181.78.7.90:12500/play/a0b2/index.m3u8
-#EXTINF:-1,Telecafe
-http://181.78.7.90:12500/play/a00c/index.m3u8
+http://190.60.49.242:4000/play/a008/index.m3u8
+
 #EXTINF:-1,Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1,Telesur
 http://181.78.7.90:12500/play/a01o/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://181.78.7.90:12500/play/a01f/index.m3u8
-
+#EXTINF:0,Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0fu/index.m3u8
 
 
 #EXTINF:-1,America TV HD
@@ -491,10 +491,8 @@ http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
 
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.7.90:12500/play/a0b2/index.m3u8
-#EXTINF:-1,Telecafe
-http://181.78.7.90:12500/play/a00c/index.m3u8
+
+
 #EXTINF:-1,Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1,Telesur
@@ -530,12 +528,13 @@ http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
 #EXTINF:-1,Señal Colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0j4/index.m3u8
 #EXTINF:-1,TNT HD
 http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.7.90:12500/play/a0b2/index.m3u8
-#EXTINF:-1,Telecafe
-http://181.78.7.90:12500/play/a00c/index.m3u8
+
+
 #EXTINF:-1,Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1,Telesur
