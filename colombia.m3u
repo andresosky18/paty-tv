@@ -611,7 +611,30 @@ http://190.60.49.242:4000/play/a0id/index.m3u8
 #EXTINF:0,El Gourmet HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.49.242:4000/play/a0jg/index.m3u8
-
+#EXTINF:0,13 CHILE
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0qd/index.m3u8
+#EXTINF:0,ANIME
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0me/index.m3u8
+#EXTINF:0,ATLAS
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a089/index.m3u8
+#EXTINF:0,ATRES SERIES
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0eh/index.m3u8
+#EXTINF:0,BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ml/index.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ms/index.m3u8
+#EXTINF:0,Clover
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0e7/index.m3u8
+#EXTINF:0,CNN International
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ik/index.m3u8
 
 
 
