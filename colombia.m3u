@@ -657,102 +657,192 @@ http://190.60.49.242:4000/play/a0j8/index.m3u8
 http://38.250.229.23:8000/play/a0r4
 #EXTINF:-1 tvg-id="RAI.co" tvg-name="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/330px-Logo_of_RAI_%282016%29.svg.png" group-title="PELICULAS Y SERIES",RAI
 http://38.250.229.23:8000/play/a0pt
-
-
-
-
 #EXTM3U x-tvg-url="https://www.gatotv.com/guia_tv/completa"
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2
+#EXTVLCOPT:network-caching=1000
 http://179.1.68.245:7600/play/a058/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/revision/latest?cb=20210218135235&path-prefix=es",Trece
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/revision/latest?cb=20210218135235&path-prefix=es",Trece
+#EXTVLCOPT:network-caching=1000
 http://190.242.59.52:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/46?cb=20241021203534&path-prefix=es",Azteca 7 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/46?cb=20241021203534&path-prefix=es",Azteca 7 
+#EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT +
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT +
+#EXTVLCOPT:network-caching=1000
 http://190.2.213.220:8000/play/a0c7/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT + HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT + HD
+#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DSPORTS FHD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DSPORTS FHD
+#EXTVLCOPT:network-caching=1000
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DSPORTS FHD 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DSPORTS FHD 
+#EXTVLCOPT:network-caching=1000
 http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DSPORTS FHD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DSPORTS FHD (Opción 3)
+#EXTVLCOPT:network-caching=1000
 http://38.199.4.105:9999/play/1119/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/300?cb=20250729202917",SKY Sport
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/300?cb=20250729202917",SKY Sport
+#EXTVLCOPT:network-caching=1000
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/300?cb=20250729202917",SKY Sport
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/300?cb=20250729202917",SKY Sport (Opción 2)
+#EXTVLCOPT:network-caching=1000
 http://177.10.184.60:8002/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/300?cb=20250729202917",SKY Sport (Opción 3)
+#EXTVLCOPT:network-caching=1000
 http://181.119.111.25:4000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest/scale-to-width-down/68?cb=20230207140224&path-prefix=es",Fox Sports 3 HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest/scale-to-width-down/68?cb=20230207140224&path-prefix=es",Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
 http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/78?cb=20251113064305",Disney Channel
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/78?cb=20251113064305",Disney Channel
+#EXTVLCOPT:network-caching=1000
 http://45.173.72.26:2072/play/a04v
-#EXTINF:-1 group-title="Msica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomr-wFdieaD0RBCoMdUEQEmMkQ8h7w9DinA&s", MUSICA ROMANTICA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomr-wFdieaD0RBCoMdUEQEmMkQ8h7w9DinA&s", MUSICA ROMANTICA
+#EXTVLCOPT:network-caching=1000
 http://181.78.7.90:12500/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="Msica" tvg-logo="https://static.wikia.nocookie.net/rarter/images/9/95/Lalalalalalalalalalla.png/revision/latest?cb=20240430152412", MUSICA SALSA
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/9/95/Lalalalalalalalalalla.png/revision/latest?cb=20240430152412", MUSICA SALSA
+#EXTVLCOPT:network-caching=1000
 http://181.78.7.90:12500/play/a0co/index.m3u8
-#EXTINF:-1 group-title="Msica" tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/22/Iskskskskakak.png/revision/latest/scale-to-width-down/250?cb=20240430215639", MUSICA POPULAR
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/22/Iskskskskakak.png/revision/latest/scale-to-width-down/250?cb=20240430215639", MUSICA POPULAR
+#EXTVLCOPT:network-caching=1000
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
-#EXTINF:-1 group-title="Msica" tvg-logo="https://americancable.ec/wp-content/uploads/2023/12/MIMUSICAREGGAETON-LOGO.png", MUSICA REGGAETON
+
+#EXTINF:-1 tvg-logo="https://americancable.ec/wp-content/uploads/2023/12/MIMUSICAREGGAETON-LOGO.png", MUSICA REGGAETON
+#EXTVLCOPT:network-caching=1000
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/78?cb=20210328155501&path-prefix=es",FX
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/78?cb=20210328155501&path-prefix=es",FX
+#EXTVLCOPT:network-caching=1000
 http://191.97.49.82:8001/play/a007/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest/scale-to-width-down/78?cb=20161105151637&path-prefix=es",NATGEO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest/scale-to-width-down/78?cb=20161105151637&path-prefix=es",NATGEO
+#EXTVLCOPT:network-caching=1000
 http://191.97.49.82:8001/play/a008/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTheNevCfd72tIv-ZlPBwp5rcybVbcBXZL8Hw&s",TELEVISION TRAPOTO
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTheNevCfd72tIv-ZlPBwp5rcybVbcBXZL8Hw&s",TELEVISION TRAPOTO
+#EXTVLCOPT:network-caching=1000
 http://191.97.49.82:8001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxHn6T6ip4NspBRFETKSksIl6TL0BlUrVSQ&s",WesT
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxHn6T6ip4NspBRFETKSksIl6TL0BlUrVSQ&s",WesT
+#EXTVLCOPT:network-caching=1000
 http://191.97.49.82:8001/play/a00r/index.m3u8
-### DEPORTES ###
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS FHD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS FHD
+#EXTVLCOPT:network-caching=1000
 http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS 1 HD (Opción 1)
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS 1 HD (Opción 1)
+#EXTVLCOPT:network-caching=1000
 http://38.187.3.110:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS 1 HD (Opción 2)
+#EXTVLCOPT:network-caching=1000
 http://179.1.68.245:7600/play/a084/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/330px-Logotipo_de_TV_Azteca.svg.png",Azteca 7 (Opción 1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/330px-Logotipo_de_TV_Azteca.svg.png",Azteca 7 (Opción 1)
+#EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a026/index.m3u8
-### ENTRETENIMIENTO Y NACIONALES ###
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 (Señal 1)
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 (Señal 1)
+#EXTVLCOPT:network-caching=1000
 http://179.1.68.245:7600/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2 (Señal 2)
+#EXTVLCOPT:network-caching=1000
 http://201.230.137.204:8000/play/a0ff/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="Canal1.co@SD",Canal 1 (Opción 2 - 1080p)
+
+#EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (Opción 2 - 1080p)
+#EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-### REGIONALES Y VARIEDADES ###
+
+#EXTINF:-1,Telecaribe
+#EXTVLCOPT:network-caching=1000
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="CanalVisionDorada.co@SD",Bum Televisión
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co@SD",Bum Televisión
+#EXTVLCOPT:network-caching=1000
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="CanalDos.co@SD",Canal Dos Yopal
+
+#EXTINF:-1 tvg-id="CanalDos.co@SD",Canal Dos Yopal
+#EXTVLCOPT:network-caching=1000
 http://131.221.41.94/hls/canal2.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="CanalMasTelevision.co@SD",Canal Más Televisión
+
+#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD",Canal Más Televisión
+#EXTVLCOPT:network-caching=1000
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="CanalNets.co@SD",Canal Nets
+
+#EXTINF:-1 tvg-id="CanalNets.co@SD",Canal Nets
+#EXTVLCOPT:network-caching=1000
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="CNCSantanderdeQuilichao.co@SD",CNC Santander de Quilichao
+
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD",CNC Santander de Quilichao
+#EXTVLCOPT:network-caching=1000
 https://video.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="Cosmovision.co@SD",Cosmovision
+
+#EXTINF:-1 tvg-id="Cosmovision.co@SD",Cosmovision
+#EXTVLCOPT:network-caching=1000
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="TVSanJorge.co@SD",TV San Jorge
+
+#EXTINF:-1 tvg-id="TVSanJorge.co@SD",TV San Jorge
+#EXTVLCOPT:network-caching=1000
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 group-title="Regionales" tvg-id="ViveTV.co@SD",Vive TV Colombia
+
+#EXTINF:-1 tvg-id="ViveTV.co@SD",Vive TV Colombia
+#EXTVLCOPT:network-caching=1000
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="LaKalle.co@SD",La Kalle (Musica)
+
+#EXTINF:-1 tvg-id="LaKalle.co@SD",La Kalle (Musica)
+#EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="LaHermandadSalsera.co@SD",La Hermandad Salsera
+
+#EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD",La Hermandad Salsera
+#EXTVLCOPT:network-caching=1000
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="MasMusicaFM.co@SD",MasMusica FM
+
+#EXTINF:-1 tvg-id="MasMusicaFM.co@SD",MasMusica FM
+#EXTVLCOPT:network-caching=1000
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="NSTV.co@SD",NSTV
+
+#EXTINF:-1 tvg-id="NSTV.co@SD",NSTV
+#EXTVLCOPT:network-caching=1000
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="SuramTV.co@SD",Suram TV
+
+#EXTINF:-1 tvg-id="SuramTV.co@SD",Suram TV
+#EXTVLCOPT:network-caching=1000
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="MCITelevision.co@SD",MCI Television
+
+#EXTINF:-1 tvg-id="MCITelevision.co@SD",MCI Television
+#EXTVLCOPT:network-caching=1000
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="MiGenteTV.co@SD",Mi Gente TV
+
+#EXTINF:-1 tvg-id="MiGenteTV.co@SD",Mi Gente TV
+#EXTVLCOPT:network-caching=1000
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-id="TuUniversoTV.co@SD",Tu Universo TV
+
+#EXTINF:-1 tvg-id="TuUniversoTV.co@SD",Tu Universo TV
+#EXTVLCOPT:network-caching=1000
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-### RELIGIOSOS ###
-#EXTINF:-1 group-title="Religiosos" tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
+
+#EXTINF:-1 tvg-id="CanalOracionConSon.co@SD",Canal Oración Con Son
+#EXTVLCOPT:network-caching=1000
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 
-
+#EXTINF:-1,Canal Ejemplo
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0n9/index.m3u8
